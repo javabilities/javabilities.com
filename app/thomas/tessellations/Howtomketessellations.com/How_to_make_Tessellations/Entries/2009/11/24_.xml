@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="2B5080D4-6995-4584-AABF-16151B80E4C8">
+  <lastEdited clientType="local-build-20091207" date="2009-12-07 21:27:13 -0500"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;How to make Tessellations &lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>  Tessellations are easy to make, but however it is hard to make a good one. I think anyone can make a tessellation but only some can make a good one. You will never know if you never try. So try to make a tessellation and find out if you have a talent for making tessellations.  </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Over all Tessellations...</richText>
+  </textBox>
+</content>

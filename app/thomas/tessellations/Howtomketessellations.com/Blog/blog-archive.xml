@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Blog</link>
+    <description> My life has changed ever since I learned about tessellations. If you read the article below you will know how my life has changed.</description>
+    <item>
+      <title>About me and tessellations</title>
+      <link>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Blog/Entries/2009/11/20_About_me_and_tessellations.html</link>
+      <guid isPermaLink="false">62ee3a3e-c0f6-413f-95f9-9b6880725673</guid>
+      <pubDate>Fri, 20 Nov 2009 00:00:00 -0500</pubDate>
+      <iweb:comment link="file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Blog/Entries/2009/11/20_About_me_and_tessellations.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

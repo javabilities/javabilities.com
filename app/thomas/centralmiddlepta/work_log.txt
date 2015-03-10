@@ -1,0 +1,106 @@
+Work Log for Thomas Steinholz
+=============================
+
+Task: Sept 29th Update
+Sept. 27th - 3 hours
+Sept. 38th - 2 hours
+*Added a Facebook Like button
+*Added Calender Dates
+*Added Volunteer events
+*Added PTSA Minutes
+*Added a Donation button for future uses
+*Fixed bugs
+
+Task: October 6th Update
+Oct 4th - 2 hours
+Oct 6th - 1 hour
+*Corrected CAT South tour date on the calendar page
+*Added Oct 10th PTSA meeting to calendar
+*Added Book Fair signupgenius text and link to volunteer page
+*Added facebook like us to front page
+*Added document to join PTSA
+*Added Favicon
+
+Task: October 13th Update
+Oct 12th - 4 hour
+*Updated Calender Dates
+*Changed IDE
+*Prepared for bootstrap upgrade to 3.0
+
+Task: October 20th Update
+Oct 19th - 1 hour
+*Updated Calender Dates
+*Updated Voulenters Page
+
+Task: October 27th Update
+
+Task: November 3rd Update
+Nov 1st - 1 hour
+* Edited home page, added text with link to volunteer.
+
+Task: November 10th Update
+Nov 10th - 1 hour
+* Corrected spelling of Chairs on the Contact page.
+* Added Lisa Maranto to the Contact page.
+* Added Nov. 14th event to the Calendar.
+* Removed October events.
+
+Task: November 17th Update
+Nov 17th - 1 hour
+* Added October 10th meeting minutes.
+
+Task: December 15th Update
+Dec 10th - 2 hours
+* Updated Calendar
+* Updated Home Page, added link to Chess Club document
+
+Task: January 12th Update
+January 10th - 1 hour
+* Updated the Calendar with the Ledo's event.
+* Added image for the Ledo's event.
+* Updated home page.
+
+Task: February 9th Update
+February 8th - 2 hours
+* Updated the Calendar
+* Updated the Contacts
+
+Task: February 16th Update
+February 17th - 2 hours
+* Updated Calender
+* Updated PTSA Meeting Minutes
+
+Task: February 23rd Update
+February 22nd - 2 hours
+* Updated Calender
+* Updated Volunteer Page
+* Updated Resources
+
+Task: March 30th Update
+March 30th - 2 hours
+* Updated Calender
+
+Task: April 27th Update
+April 27th - 1 hour
+* Updated Calender
+* Updated Homepage
+* Patched Firefox & IE bugs
+
+Task: May 11th update
+May 11th - 2 hours
+* May Minutes
+* March Minutes
+* Updated Calender
+
+
+Future Tasks
+============
+
+Task: Add accordian groups to _minutes.
+
+Task: Investigate integrating a nice calendar in web site with existing google account cntrlmdlpta.
+      http://arshaw.com/fullcalendar/
+
+Task: Upgrade to bootstrap 3, optimize for mobile
+
+Task: Add bootstrap theme

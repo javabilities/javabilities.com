@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Blog</title>
+    <link>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Blog/Blog.html</link>
+    <description>My life has changed ever since I learned about tessellations. If you read the article below you will know how my life has changed.</description>
+    <generator>iWeb 2.0.4</generator>
+    <image>
+      <url>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Blog/Blog_files/100_0644.jpg</url>
+      <title>My Blog</title>
+      <link>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Blog/Blog.html</link>
+    </image>
+    <item>
+      <title>About me and tessellations</title>
+      <link>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Blog/Entries/2009/11/20_About_me_and_tessellations.html</link>
+      <guid isPermaLink="false">62ee3a3e-c0f6-413f-95f9-9b6880725673</guid>
+      <pubDate>Fri, 20 Nov 2009 00:00:00 -0500</pubDate>
+      <description>&lt;a href=&quot;file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Blog/Entries/2009/11/20_About_me_and_tessellations_files/MyTessellation3.jpg&quot;&gt;&lt;img src=&quot;file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Blog/Media/MyTessellation3.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:132px;&quot;/&gt;&lt;/a&gt;Today in 5th grade math we learned all about tessellations by going to the cool site called Tessellations.com, we learned who to make a cool  picture called a tessellation. Ever since Friday, November 20 ,2009, my life has changed. All a sudden I am making a cool new websites about tessellations. </description>
+      <enclosure url="file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Blog/Entries/2009/11/20_About_me_and_tessellations_files/MyTessellation3.jpg" length="141094" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="03BBB92C-4CC6-4FB3-8CD4-DC3590793291">
+  <lastEdited clientType="local-build-20091207" date="2009-12-07 21:27:14 -0500"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;My Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>About me and tessellations</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>  Today in 5th grade math we learned all about tessellations by going to the cool site called Tessellations.com, we learned who to make a cool  picture called a tessellation. Ever since Friday, November 20 ,2009, my life has changed. All a sudden I am making a cool new websites about tessellations. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, November 20, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_About_me_and_tessellations_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

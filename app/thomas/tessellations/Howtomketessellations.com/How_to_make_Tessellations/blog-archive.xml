@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>How to make Tessellations</title>
+    <link>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/How_to_make_Tessellations</link>
+    <description>  This will teach you how to make a tessellation using my favorite method, the slice method.This is my favorite method because it is the first one I learned to use and I think it is the easiest.  </description>
+    <item>
+      <title>Over all Tessellations...</title>
+      <link>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/How_to_make_Tessellations/Entries/2009/11/24_.html</link>
+      <guid isPermaLink="false">28c15bfa-6af3-499b-8149-90c2c16eda56</guid>
+      <pubDate>Tue, 24 Nov 2009 12:16:17 -0500</pubDate>
+      <iweb:comment link="file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/How_to_make_Tessellations/Entries/2009/11/24_.html#comment_layer" count="0" enabled="1"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/How_to_make_Tessellations</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Gallery</title>
+    <link>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Gallery.html</link>
+    <description>All the photos you are about to see are made by me Thomas or M. C. Escher.You have seen one of my favorite Escher tessellations and here are a little more! </description>
+    <item>
+      <title>Escher</title>
+      <link>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Gallery.html#0</link>
+      <guid isPermaLink="false">88a8b9cf-bcce-4d91-9ab4-425b85a672a3</guid>
+      <enclosure url="file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Gallery_files/Media/Tessellation3/Tessellation3.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Gallery_files/Media/Tessellation3/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Gallery_files/Media/Tessellation3/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Escher&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>My Tessellation</title>
+      <link>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Gallery.html#1</link>
+      <guid isPermaLink="false">7084ae52-e7a6-43b2-bdf8-a666d39b7177</guid>
+      <enclosure url="file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Gallery_files/Media/MyTessellation4/MyTessellation4.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Gallery_files/Media/MyTessellation4/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Gallery_files/Media/MyTessellation4/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;My Tessellation&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>My Tessellation 2 </title>
+      <link>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Gallery.html#2</link>
+      <guid isPermaLink="false">0e573770-db04-4d0b-b56d-f41666c6bdca</guid>
+      <enclosure url="file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Gallery_files/Media/MyTessellation2/MyTessellation2.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Gallery_files/Media/MyTessellation2/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Gallery_files/Media/MyTessellation2/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;My Tessellation 2 &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Escher set</title>
+      <link>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Gallery.html#3</link>
+      <guid isPermaLink="false">560b1294-7913-4ac7-a1ec-fa8ab88f0d7d</guid>
+      <enclosure url="file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Gallery_files/Media/Tessellation1/Tessellation1.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Gallery_files/Media/Tessellation1/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/thomas/Sites/Tessellations2/Howtomketessellations.com/Gallery_files/Media/Tessellation1/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Escher set&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
