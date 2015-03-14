@@ -17,7 +17,7 @@
     <!-- endbuild -->
     <!-- build:css(.tmp) styles/main.css -->
     <link rel="stylesheet" href="styles/main.css">
-    <link rel="stylesheet" href="styles/bootstrap.min.css">
+    <link rel="stylesheet" href="styles/bootstrap.min.superhero.css">
     <!-- endbuild -->
     <!-- build:js scripts/vendor/modernizr.js -->
     <script src="bower_components/modernizr/modernizr.js"></script>
@@ -43,7 +43,7 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
+            <li class="active"><a id="home" href="#">Home</a></li>
 
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Projects <span class="caret"></span></a>
@@ -55,7 +55,7 @@
 
             <li><a href="https://github.com/javabilities" target="_blank">Github</a></li>
             <li><a href="http://blog.javabilities.com/" target="_blank">Blog</a></li>
-            <li><a href="#about">About</a></li>
+            <li><a id="about" href="#about" data-toggle="pill">About</a></li>
 
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Sites by Thomas <span class="caret"></span></a>
@@ -65,18 +65,18 @@
                 <li><a href="thomas/greek_mythology" target="_blank">Greek Mythology Site</a></li>
               </ul>
             </li>
-
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     </nav>
 
     <!-- Begin page content -->
-    <div class="container">
+    <div id="page-content" class="container">
       <div class="page-header">
         <h1>Javabilities Home</h1>
       </div>
-      <p class="lead">This is a site for many of our ideas and experiments. Many of these projects are incomplete and works in progress.
+      <p class="lead">
+        This is a site for many of our ideas and experiments. Many of these projects are incomplete and works in progress.
         The work that is completed is checked into a <a href="http://github.com/javabilities/" target="_blank">github account</a> and is availble to anyone.
         I have documented some of the more interesting parts of the projects on my <a href="http://blog.javabilities.com/" target="_blank">blog.</a>
       </p>
@@ -95,14 +95,14 @@
     <!-- endbuild -->
 
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-    <script>
-      (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-      function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-      e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-      e.src='//www.google-analytics.com/analytics.js';
-      r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-      ga('create','UA-XXXXX-X');ga('send','pageview');
-    </script>
+    <!--<script>-->
+      <!--(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=-->
+      <!--function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;-->
+      <!--e=o.createElement(i);r=o.getElementsByTagName(i)[0];-->
+      <!--e.src='//www.google-analytics.com/analytics.js';-->
+      <!--r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));-->
+      <!--ga('create','UA-XXXXX-X');ga('send','pageview');-->
+    <!--</script>-->
 
         <!-- build:js(.) scripts/plugins.js -->
         <script src="bower_components/bootstrap/js/affix.js"></script>
